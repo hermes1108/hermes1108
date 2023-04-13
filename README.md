@@ -4,7 +4,7 @@
 
 I'm eager to build new blockchain and web applications requiring solid knowledge and soft skills.
 
-- ✉️  You can contact me at [geniusdev1108@gmail.com](mailto:geniusdev1108@gmail.com)
+- ✉️  You can contact me at [smartdev531@gmail.com](mailto:geniusdev1108@gmail.com)
 - 🧠  I'm learning Golang
 - 🤝  I'm open to collaborating on all projects loving me
 - ⚡  I love to see football matches, but can't play well LOL.<a href="https://www.github.com/hermes1108" target="_blank" rel="noreferrer"><img
